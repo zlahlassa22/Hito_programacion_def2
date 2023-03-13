@@ -3,7 +3,7 @@ import java.awt.*;
 
 public class Ventana extends JFrame {
     public Ventana() {
-        //PANELES
+        //PANELESS
         JPanel panelbox = new JPanel();
         JPanel panelradio = new JPanel(new FlowLayout());
         JPanel botones = new JPanel(new FlowLayout(FlowLayout.LEFT));
